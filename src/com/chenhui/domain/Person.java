@@ -9,4 +9,5 @@ package com.chenhui.domain;
  */
 public class Person {
     private String name;
+    private String age;
 }
