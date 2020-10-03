@@ -8,7 +8,6 @@ import java.util.Objects;
  * Description :
  *
  * @author : chenhui@xvco.com
- * @date : 2020/10/3 12:37
  */
 public class Car {
     private String name;
